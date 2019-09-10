@@ -3,14 +3,5 @@ This is my story
 By Chauncey Kelly
 
 STUFF
-You are the Man!!!
+THIS IS THE LAST TIME DARNIT!!!!!
 
-More Changes by Chauncey
-<<<<<<< HEAD
-skdfjkdsjfk
-=======
-
-
-MORE CHANGES AGAIN
-
->>>>>>> e406e4bcc9006928e59ef04412bf2c07828e7539
