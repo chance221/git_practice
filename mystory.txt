@@ -6,4 +6,11 @@ STUFF
 You are the Man!!!
 
 More Changes by Chauncey
+<<<<<<< HEAD
 skdfjkdsjfk
+=======
+
+
+MORE CHANGES AGAIN
+
+>>>>>>> e406e4bcc9006928e59ef04412bf2c07828e7539
